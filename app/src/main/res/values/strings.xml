@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_first_pane">FirstPane</string>
     <string name="title_activity_second_pane">SecondPane</string>
+    <string name="title_activity_custom_pane_test">CustomPaneTest</string>
 
 </resources>
