@@ -1,0 +1,7 @@
+<android.support.v4.widget.SlidingPaneLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/slidingpanelayout" >
+
+</android.support.v4.widget.SlidingPaneLayout>
+<!-- From: file:/C:/Users/Hunt/Downloads/SlidingPanelLayout1/app/src/main/res/layout/activity_main.xml -->

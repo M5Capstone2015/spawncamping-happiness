@@ -1,0 +1,4 @@
+C:\Users\Hunt\Downloads\SlidingPanelLayout1\app\build\intermediates\classes\debug
+C:\Users\Hunt\Downloads\SlidingPanelLayout1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7a88fd50f90decf8568524cb109d25e50d1d874a.jar
+C:\Users\Hunt\Downloads\SlidingPanelLayout1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2ec3925eed26690954b3e51b94d008a4f6ab7f41.jar
+C:\Users\Hunt\Downloads\SlidingPanelLayout1\app\build\intermediates\pre-dexed\debug\classes-05b19836bbd0b2985b901bf364a40faa06f92e07.jar
